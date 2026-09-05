@@ -1,48 +1,46 @@
 # Q001 — Findpeak
 
+## Original Source
+`PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-2/W2LCP1-FindPeak.md`
+
 ## Concept
 Peak finding / binary search
 
-## Statement
-> Write a function  `Findpeak(L)`  that accepts a list L of  `n`  distinct elements and returns the peak element of the list. A list element is a peak if it is greater than its neighbors. For corner elements, we need to consider only one neighbor. Write an efficient solution of O(logn) complexity. Consider that there is only one peak is in the list, L.
+## Question Statement
+Write a function  `Findpeak(L)`  that accepts a list L of  `n`  distinct elements and returns the peak element of the list. A list element is a peak if it is greater than its neighbors. For corner elements, we need to consider only one neighbor. Write an efficient solution of O(logn) complexity. Consider that there is only one peak is in the list, L.
 
-## Inputs
-**Sample Input 1**
+## Input
+### Sample Input 1
 ```text
 [5, 10, 20, 15]
 ```
 
-**Sample Input 2**
+### Sample Input 2
 ```text
 [1,2,3,4,5,6,7,8]
 ```
 
-## Outputs
-**Output 1**
+## Output
+### Sample Output 1
 ```text
 20
 ```
 
-**Output 2**
+### Sample Output 2
 ```text
 8
 ```
 
 ## Boilerplate Code — Student Version
 
-The student receives the **full runnable program structure**, with the implementation portion replaced by a clearly marked `YOUR CODE HERE` block. The boilerplate is intentionally not reduced to only the function body.
+This question is **not a fill-in-the-block question in the original source**. The original source provides the function/program context and expects the student to write the required implementation. Therefore, we do **not** invent a `YOUR CODE HERE` marker.
+
+The student-facing coding task is to implement the required function:
 
 ```python
-def findPeakUtil(arr, low, high, n):
-    # YOUR CODE HERE
-    pass
-
 def Findpeak(L):
-    n = len(L)
-    return findPeakUtil(L, 0, n - 1, n)
+    # Write your complete implementation here.
 ```
-
-> Note: The original source file contains the complete implementation but does not contain an explicit `YOUR CODE HERE` marker. The student version above marks the implementation region that must be supplied while preserving the original program structure and function signatures.
 
 ## Full Reference Code
 
@@ -72,5 +70,5 @@ def Findpeak(L):
 ## Occurrence Count
 1 (currently recorded; final count will be established during the complete repository scan)
 
-## Source
-`PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-2/W2LCP1-FindPeak.md`
+## Source Reference
+`W2LCP1-FindPeak.md` under `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-2/`
