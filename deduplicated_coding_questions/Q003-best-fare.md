@@ -14,10 +14,6 @@ flight_route = {
 
 You are also given three integers `source`, `destination` and `k` (positive integer), function returns minimum cost and flight route in the format `(minimum_cost, [source, next_stop, next_stop, ..., destination])` from `source` to `destination` with at most `k` stops in between (`source` and `destination` are not included). If there is no such route, then return string `Not found`.
 
-### Given graph
-
-The graph below is part of the original question. Students should use the diagram to understand the directed edges and their prices; the node/edge details are intentionally **not transcribed into the student question**.
-
 ![BestFare graph](https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/5a793c12-5ec7-43ab-8b4d-96b3ce81ed79)
 
 ### Student Function
