@@ -14,7 +14,7 @@ flight_route = {
 
 You are also given three integers `source`, `destination` and `k` (positive integer), function returns minimum cost and flight route in the format `(minimum_cost, [source, next_stop, next_stop, ..., destination])` from `source` to `destination` with at most `k` stops in between (`source` and `destination` are not included). If there is no such route, then return string `Not found`.
 
-![BestFare graph](best_fare_graph.svg)
+![BestFare graph](https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/5a793c12-5ec7-43ab-8b4d-96b3ce81ed79)
 
 ### Student Function
 
@@ -126,6 +126,6 @@ print(best_fare(WL,s,d,k))
 - Original source images:
   - `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/5a793c12-5ec7-43ab-8b4d-96b3ce81ed79`
   - `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/8bf853e9-5a8e-4e0c-9567-592f13d6e687`
-- Student-facing image: `best_fare_graph.svg` — cropped graph visual recreated from the supplied source screenshot.
+- Student-facing image: original source graph screenshot, preserved without cropping or recreation.
 - Occurrences currently confirmed: 1; final occurrence count must be updated after the complete OPPE1/OPPE2/OPPE3 repository scan.
 - Deduplication note: the graph diagram is part of the student-facing question and must be preserved. Its contents were extracted for validation/deduplication, but the extracted node/edge list is not substituted for the diagram in the student-facing section.
