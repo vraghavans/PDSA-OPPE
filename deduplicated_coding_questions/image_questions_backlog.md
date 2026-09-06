@@ -39,10 +39,10 @@ This document tracks questions whose student-facing statement, examples, inputs,
 | 22 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-7/W7LCP3-IsCodeValid.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/e8f04a39-b8b0-4ab2-9770-4a4bfac12237` | Pending image extraction | — |
 | 23 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-8/W8LCP1-Findmedian.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/296482ee-ae0a-4f06-a098-6cfb33a3ec7c` | Pending image extraction | — |
 | 24 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-8/W8LCP2-KthElement.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/a4bd3d4c-dd63-4766-9ef3-828ccc2635ec` | Pending image extraction | — |
-| 25 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP1-MinCost.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 26 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP2-CountSubsequence.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 27 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP3-KnapSack.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 28 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP4-CutRod.md` | Original image reference(s) in source file | Pending image extraction | — |
+| 25 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP1-MinCost.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/10bb3db2-298c-429d-b727-ae1e4ab8dd06` | Pending image extraction | — |
+| 26 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP2-CountSubsequence.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/cf6728c5-7b47-41a6-b4c6-c549478f27c6` | Pending image extraction | — |
+| 27 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP3-KnapSack.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/1580ca2c-bb42-478d-bc1b-a5d1483d585c` | Pending image extraction | — |
+| 28 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP4-CutRod.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/bea83825-e8f4-4542-ba8c-23d3619c54ab` | Pending image extraction | — |
 | 29 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-1_SwappingMinMax.md` | Original image reference(s) in source file | Pending image extraction | — |
 | 30 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-2_RemoveDuplicateFromSortedLinkedList.md` | Original image reference(s) in source file | Pending image extraction | — |
 | 31 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-3_MergeTwoSortedLinkedLists.md` | Original image reference(s) in source file | Pending image extraction | — |
@@ -51,5 +51,6 @@ This document tracks questions whose student-facing statement, examples, inputs,
 | 34 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-6_BinarySearchTree.md` | Original image reference(s) in source file | Pending image extraction | — |
 | 35 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-7_DominoSolitaire.md` | Original image reference(s) in source file | Pending image extraction | — |
 | 36 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-8_CountSubSequence.md` | Original image reference(s) in source file | Pending image extraction | — |
+| 37 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-8/W8LCP3-PickingNumbers.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/b5849ae6-afff-4d9f-91f2-946ce758c90d` | Pending image extraction | — |
 
 > The list above captures the image questions identified so far in OPPE1. Additional image-based questions discovered in OPPE2/OPPE3 will be appended during the remaining repository scan.
