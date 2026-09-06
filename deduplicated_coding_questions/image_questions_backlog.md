@@ -43,14 +43,14 @@ This document tracks questions whose student-facing statement, examples, inputs,
 | 26 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP2-CountSubsequence.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/cf6728c5-7b47-41a6-b4c6-c549478f27c6` | Pending image extraction | — |
 | 27 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP3-KnapSack.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/1580ca2c-bb42-478d-bc1b-a5d1483d585c` | Pending image extraction | — |
 | 28 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP4-CutRod.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/bea83825-e8f4-4542-ba8c-23d3619c54ab` | Pending image extraction | — |
-| 29 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-1_SwappingMinMax.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 30 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-2_RemoveDuplicateFromSortedLinkedList.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 31 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-3_MergeTwoSortedLinkedLists.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 32 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-4_PeakInUnimodal.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 33 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-5_ShortestCircularRoute.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 34 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-6_BinarySearchTree.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 35 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-7_DominoSolitaire.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 36 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-8_CountSubSequence.md` | Original image reference(s) in source file | Pending image extraction | — |
+| 29 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-1_SwappingMinMax.md` | `https://backend.seek.onlinedegree.iitm.ac.in/23t1_cs2002/assets/img/mock1jan2023.png` | Pending image extraction | — |
+| 30 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-2_RemoveDuplicateFromSortedLinkedList.md` | `https://backend.seek.onlinedegree.iitm.ac.in/23t2_cs2002/assets/img/W3LC1NN.png` | Pending image extraction | — |
+| 31 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-3_MergeTwoSortedLinkedLists.md` | `https://backend.seek.onlinedegree.iitm.ac.in/23t2_cs2002/assets/img/mockppa2.png` | Pending image extraction | — |
+| 32 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-4_PeakInUnimodal.md` | `https://backend.seek.onlinedegree.iitm.ac.in/22t2_cs2002/assets/img/pmock21.png` | Pending image extraction | — |
+| 33 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-5_ShortestCircularRoute.md` | `https://backend.seek.onlinedegree.iitm.ac.in/22t1_cs2002/assets/img/m1.png`; `https://backend.seek.onlinedegree.iitm.ac.in/22t1_cs2002/assets/img/m2.png`; `https://backend.seek.onlinedegree.iitm.ac.in/22t1_cs2002/assets/img/m3.png`; `https://backend.seek.onlinedegree.iitm.ac.in/22t1_cs2002/assets/img/m4.png` | Pending image extraction | — |
+| 34 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-6_BinarySearchTree.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/ab1f5777-63e2-4c10-996f-5f11050064bb` | Pending image extraction | — |
+| 35 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-7_DominoSolitaire.md` | `https://backend.seek.onlinedegree.iitm.ac.in/21t3_cs2002/assets/img/domi.png`; `https://backend.seek.onlinedegree.iitm.ac.in/21t3_cs2002/assets/img/dom.png` | Pending image extraction | — |
+| 36 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-8_CountSubSequence.md` | `https://backend.seek.onlinedegree.iitm.ac.in/22t2_cs2002/assets/img/pdsaactq2i1.png` | Pending image extraction | — |
 | 37 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-8/W8LCP3-PickingNumbers.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/b5849ae6-afff-4d9f-91f2-946ce758c90d` | Pending image extraction | — |
 
 > The list above captures the image questions identified so far in OPPE1. Additional image-based questions discovered in OPPE2/OPPE3 will be appended during the remaining repository scan.
