@@ -81,6 +81,8 @@ print(findRedundantEdges(E,n))
 ## Source / Occurrence Metadata
 
 - Original question ID: `W6LCP2 — FindRedundantEdges`
-- Source: `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-6/W6LCP2-FindRedundantEdges.md`
-- Occurrences currently confirmed: 1; final occurrence count must be updated after the complete OPPE1/OPPE2/OPPE3 repository scan.
-- Deduplication note: checked against existing deduplicated questions; no duplicate found.
+- Sources:
+  - `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-6/W6LCP2-FindRedundantEdges.md`
+  - `PDSA OPPE1/iitm-pdsa-main/OPE/FindRedundantEdges.py` (not present; no such OPE file was found)
+- Occurrences currently confirmed: 2, with the second occurrence being in the Week-6 LiveCoding file only if repeated there; the OPE directory scan did not find another FindRedundantEdges file. Final occurrence count remains subject to the rest of OPPE2/OPPE3.
+- Deduplication note: the OPE scan did not reveal a second occurrence of this question. 
