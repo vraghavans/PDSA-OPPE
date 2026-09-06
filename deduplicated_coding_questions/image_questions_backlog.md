@@ -37,20 +37,19 @@ This document tracks questions whose student-facing statement, examples, inputs,
 | 20 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-7/W7LCP1-DecodeCipherText.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/88c9ac81-24da-4a16-ba00-13a4b2a2f06c` | Pending image extraction | — |
 | 21 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-7/W7LCP2-MaxValueSelection.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/178fadca-bc0f-4816-bdb4-56ab4e2482ad` | Pending image extraction | — |
 | 22 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-7/W7LCP3-IsCodeValid.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/e8f04a39-b8b0-4ab2-9770-4a4bfac12237` | Pending image extraction | — |
-| 23 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-8/W8LCP1-Findmedian.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 24 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-8/W8LCP2-KthElement.md` | Original image reference(s) in source file | Pending image extraction | — |
+| 23 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-8/W8LCP1-Findmedian.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/296482ee-ae0a-4f06-a098-6cfb33a3ec7c` | Pending image extraction | — |
+| 24 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-8/W8LCP2-KthElement.md` | `https://github.com/nelsondsouza/iitm-pdsa/assets/19646977/a4bd3d4c-dd63-4766-9ef3-828ccc2635ec` | Pending image extraction | — |
 | 25 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP1-MinCost.md` | Original image reference(s) in source file | Pending image extraction | — |
 | 26 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP2-CountSubsequence.md` | Original image reference(s) in source file | Pending image extraction | — |
 | 27 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP3-KnapSack.md` | Original image reference(s) in source file | Pending image extraction | — |
 | 28 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/LiveCoding/Week-9/W9LCP4-CutRod.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 29 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/OPE/BinarySearchTreeOperation.py` | Original image reference(s), if present in source | Pending image extraction | — |
-| 30 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-1_SwappingMinMax.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 31 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-2_RemoveDuplicateFromSortedLinkedList.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 32 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-3_MergeTwoSortedLinkedLists.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 33 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-4_PeakInUnimodal.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 34 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-5_ShortestCircularRoute.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 35 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-6_BinarySearchTree.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 36 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-7_DominoSolitaire.md` | Original image reference(s) in source file | Pending image extraction | — |
-| 37 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-8_CountSubSequence.md` | Original image reference(s) in source file | Pending image extraction | — |
+| 29 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-1_SwappingMinMax.md` | Original image reference(s) in source file | Pending image extraction | — |
+| 30 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-2_RemoveDuplicateFromSortedLinkedList.md` | Original image reference(s) in source file | Pending image extraction | — |
+| 31 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-3_MergeTwoSortedLinkedLists.md` | Original image reference(s) in source file | Pending image extraction | — |
+| 32 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-4_PeakInUnimodal.md` | Original image reference(s) in source file | Pending image extraction | — |
+| 33 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-5_ShortestCircularRoute.md` | Original image reference(s) in source file | Pending image extraction | — |
+| 34 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-6_BinarySearchTree.md` | Original image reference(s) in source file | Pending image extraction | — |
+| 35 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-7_DominoSolitaire.md` | Original image reference(s) in source file | Pending image extraction | — |
+| 36 | OPPE1 | `PDSA OPPE1/iitm-pdsa-main/Mock/PPA-8_CountSubSequence.md` | Original image reference(s) in source file | Pending image extraction | — |
 
 > The list above captures the image questions identified so far in OPPE1. Additional image-based questions discovered in OPPE2/OPPE3 will be appended during the remaining repository scan.
